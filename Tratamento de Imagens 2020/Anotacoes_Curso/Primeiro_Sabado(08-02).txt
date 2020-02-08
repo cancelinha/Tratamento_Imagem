@@ -1,0 +1,36 @@
+Camada de ajuste
+Mascara de camada
+Objeto inteligente
+Efeitos de camada
+
+Mascara - Ocultar, Esconder (Tratando de Mascara = Preto esconde; Branco mostra);
+Simbolo da mascara é o simbolo do japao
+ctrl + i= inverte a mascara
+Selecao da varinha = o shift  e tecla pra adicionar mais uma parte de selecao que nao havia pego 
+Selecao varinha = Alt é tecla pra diminiur uma parte da selecao que nao queria.
+Ctrl + i = inverte as cores ( preto e bracno que define mostrar ou esconder) 
+photoshop 2020 tem nova funcao de selecionar objetos. Faz um retangulo e a inteligencia artificail seleciona o objeto certinho.
+Ctrl + shift + I = inverte a selecao
+Camada "plano de fundo"  nao pode pintar !( Acha a area em uma camada e pinta essa camada).
+Metodo criar camada = icone do papel canto inferior direito( ou shift + ctrl+ N ou no iconi expandir) e depois renomeia  a camada
+"X" = troca cor que te pra usar.
+"TAB" = tela cheia ou nao
+Efeitos ou estilo de camada( segundo icone) = "sobreposicao de cor" para RE-pintar uma camada/ alterar a cor já usada.
+Erro ua cor duas vezes e quer colocar outro efeitos de cor = 2x clicar na camada, clicar  no sinal de mais para criara outra sobreposicao.
+CMYK = Impressoes, graficas. ( Onde 0 representa bracno e as demais c=ores se dão com a adicao de porcentagem das outras cores)
+RGB =  Qualquer coisa que emita luz. Cinema, telas, lanterna, etc. RGB tem muito mais cores.( 0 é preto )
+Visualmente o RGB  é  mais "vivo"
+cMYK PODE VARIAS DEPENDENDO DO POPERADOR, QUIMIca e afins.
+Pra ter muma fidelidade maior tem que utilizar cor "especial". 
+Comando para alterar dureza e difusao do pincel = Botão Direito
+Dureza = influencia na borda
+Difusao = jeito que se espalha
+Diminuir brilho na matris = "B" só diminuir o numero
+"Ctrl + clic na mascara" = carrega a selecao que voce utilizou naquela mnascara
+clipping mask (Alt e clica) = a camada debaixo vira a mascara da de cima = so vai  aparecer a de cima onde existe a debaixo 
+opacidade do pincel ( quatorze é uma boa ) = ele vai somando 14+ 14+ 14 etc
+Unsplash = pexels
+
+
+
+
